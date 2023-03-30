@@ -1,0 +1,12 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\bin\Debug\net6.0\EBLibrary.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\bin\Debug\net6.0\EBLibrary.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\bin\Debug\net6.0\EBLibrary.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\refint\EBLibrary.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\EBLibrary.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\AssemblyReference\EBLibrary\obj\Debug\net6.0\ref\EBLibrary.dll

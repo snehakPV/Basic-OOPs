@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\bin\Debug\net6.0\Question10.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\bin\Debug\net6.0\Question10.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\bin\Debug\net6.0\Question10.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\bin\Debug\net6.0\Question10.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\bin\Debug\net6.0\Question10.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\refint\Question10.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\Question10.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\BasicsOfC#1\DateTime\Question10\obj\Debug\net6.0\ref\Question10.dll

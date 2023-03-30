@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\refint\CollegeAdmission.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\Desktop\CollegeAdmission\obj\Debug\net6.0\ref\CollegeAdmission.dll
